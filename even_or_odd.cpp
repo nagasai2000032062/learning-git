@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    cout<<"*";
     cout<<"prime number";
     int k;
     if(k&1)
